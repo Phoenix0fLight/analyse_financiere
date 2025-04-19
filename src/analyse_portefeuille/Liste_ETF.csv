@@ -1,0 +1,18 @@
+Portefeuille _id;ISIN;Emmeteur;Nom;Devise;Type;DIST ou ACC;Ticker_justetf;Ticket_yf;Catergorie;Sous_secteur;Resumé
+1;IE00BF0M2Z96;L&G;Battery Value-Chain;USD;ETF;ACC;BATE;BATT.L;Énergie;Chaîne de valeur des batteries;Focus sur la production, stockage, distribution de batteries
+1;IE00BKLF1R75;WisdomTree;Battery Solutions;USD;ETF;ACC;VOLT;CHRG.L;Énergie;Stockage d'énergie;Focus sur la technologie des batteries et stockage
+1;IE00BF4TWC33;WisdomTree;Industrial Metals Enhanced;USD;ETF;ACC;XMWJ;META.L;Matières premières;Métaux industriels;Exposure diversifiée (cuivre, zinc, nickel...)
+1;IE0002PG6CA6;VnEck;Rare Earth and Strategic Metals;USD;ETF;ACC;REMX;REMX.L;Matières premières;Terres rares;Lithium, néodyme, cobalt, très critique pour tech et armement
+1;IE000U58J0M1;iShares;Global Clean Energy;USD;ETF;ACC;INRE;INRA.AS;Énergie;Énergie verte;Producteurs et technologies d'énergie renouvelable
+1;IE000FF2EBQ8;BNP Paribas;Easy ECPI Global ESG Infrastructure;EUR;ETF;ACC;ENG;ENG.PA;Infrastructures;ESG / Stratégique;Focus sur infrastructures durables (énergie, transport, réseaux)
+1;IE00B5MTYL84;Invesco;European Food & Bev Sector;EUR;ETF;ACC;SC03;SC03.DE;Consommation;Secteur alimentaire;Focus défensif à stable en période de tension
+1;IE00B5MJYX09;Invesco;European Industrials Sector;EUR;ETF;ACC;SC0S;SC0S.DE;Industrie;Biens d'équipement;Entreprises européennes dans le matériel et infrastructures
+1;IE00BJXRZJ40;Rize;Cybersecurity and Data Privacy;USD;ETF;ACC;RCRS;CYBP.L;Technologie;Cybersécurité;Protection des données, réponse aux cyberattaques
+1;IE00BYPLS672;L&G;Cyber Security;USD;ETF;ACC;USPY;USPY.L;Technologie;Cybersécurité;Focus américain, cybersécurité offensive/défensive
+1;IE000U9ODG19;iShares;Global Aerospace & Defence;USD;ETF;ACC;DFND;DFND.AS;Défense;Armement;Entreprises de défense, aérospatiale, sécurité
+1;IE000YYE6WK5;VnEck;Defense;USD;ETF;ACC;DFNS;IUES.L;Défense;Armement;Ultra ciblé sur les entreprises du secteur militaire
+1;IE00B42NKQ00;iShares;S&P 500 Energy Sector;USD;ETF;ACC;QDVF;IUES.L;Énergie;Fossile;Majors pétrolières et gazières mondiales
+1;IE00B5MTWH09;Invesco;European Oil & Gas Sector;EUR;ETF;ACC;SC0V;SC0V.DE;Énergie;Fossile / exploration;Sociétés d'exploration pétrolière et gazière
+2;IE00B53SZB19;iShares;Nasdaq 100;USD;ETF;ACC;SXRV;CSNDX.SW;Indiciel;Indiciel;Indiciel
+3;IE00B5BMR087;iShares;S&P 500;USD;ETF;ACC;SXR8;CSSPX.MI;Indiciel;Indiciel;Indiciel
+4;IE00B4L5Y983;iShares;MSCI World;USD;ACC;EUNL;IWDA.L;Indiciel;Indiciel;Indiciel
