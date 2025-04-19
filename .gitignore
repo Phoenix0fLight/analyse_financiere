@@ -1,0 +1,11 @@
+```bash
+# Ignorer les environnements virtuels
+.venv/
+env/
+*.pyc
+
+# Ignorer les fichiers Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de configuration Poetry
+poetry.lock
