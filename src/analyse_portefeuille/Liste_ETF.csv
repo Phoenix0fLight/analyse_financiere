@@ -1,4 +1,4 @@
-Portefeuille _id;ISIN;Emmeteur;Nom;Devise;Type;DIST ou ACC;Ticker_justetf;Ticket_yf;Catergorie;Sous_secteur;Resumé
+Portefeuille _id;ISIN;Emetteur;Nom;Devise;Type;DIST ou ACC;Ticker_justetf;Ticket_yf;Catergorie;Sous_secteur;Resumé
 1;IE00BF0M2Z96;L&G;Battery Value-Chain;USD;ETF;ACC;BATE;BATT.L;Énergie;Chaîne de valeur des batteries;Focus sur la production, stockage, distribution de batteries
 1;IE00BKLF1R75;WisdomTree;Battery Solutions;USD;ETF;ACC;VOLT;CHRG.L;Énergie;Stockage d'énergie;Focus sur la technologie des batteries et stockage
 1;IE00BF4TWC33;WisdomTree;Industrial Metals Enhanced;USD;ETF;ACC;XMWJ;META.L;Matières premières;Métaux industriels;Exposure diversifiée (cuivre, zinc, nickel...)
@@ -15,4 +15,4 @@ Portefeuille _id;ISIN;Emmeteur;Nom;Devise;Type;DIST ou ACC;Ticker_justetf;Ticket
 1;IE00B5MTWH09;Invesco;European Oil & Gas Sector;EUR;ETF;ACC;SC0V;SC0V.DE;Énergie;Fossile / exploration;Sociétés d'exploration pétrolière et gazière
 2;IE00B53SZB19;iShares;Nasdaq 100;USD;ETF;ACC;SXRV;CSNDX.SW;Indiciel;Indiciel;Indiciel
 3;IE00B5BMR087;iShares;S&P 500;USD;ETF;ACC;SXR8;CSSPX.MI;Indiciel;Indiciel;Indiciel
-4;IE00B4L5Y983;iShares;MSCI World;USD;ACC;EUNL;IWDA.L;Indiciel;Indiciel;Indiciel
+4;IE00B4L5Y983;iShares;MSCI World;USD;ETF;ACC;EUNL;IWDA.L;Indiciel;Indiciel;Indiciel
